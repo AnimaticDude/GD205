@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Shootable
+  - Arrow
+  - Programmer
+  - Love
+  - Date
+  - Programmer2
+  - Programmer3
+  - Programmer4
+  - Love2
+  - Love3
+  - Love4
+  - Date2
+  - Date3
+  - Date4
   layers:
   - Default
   - TransparentFX
@@ -13,10 +27,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Programmer
   - 
   - 
   - 
@@ -38,6 +52,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
